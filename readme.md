@@ -79,11 +79,6 @@ Para atualizar a lista de cursos, basta clicar no botão **"Atualizar Scrapers"*
 ![example_gif](assets/demonstration.gif)
 
 
-### Dica para o compartilhamento:
-
-Se você quiser que seus colegas já vejam dados ao abrir o projeto pela primeira vez, mantenha a pasta `json/` rastreada no Git (como está no `.gitignore` acima). Se preferir que cada um gere seus próprios dados do zero, descomente a linha `json/*.json`.
-
-O que acha de adicionarmos um script de **"Setup Inicial"** que já cria as pastas necessárias e instala tudo automaticamente para os "coleginhas" menos técnicos?
 
 ### WARNING!!!
 
