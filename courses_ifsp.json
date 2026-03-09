@@ -1,0 +1,835 @@
+{
+    "TÉCNICO INTEGRADO": [
+        {
+            "name": "OCurso Técnico Integrado ao Ensino Médioé oferecido a quem já concluiu o Ensino Fundamental.",
+            "url": null
+        },
+        {
+            "name": "O curso garante tanto a formação do ensino médio quanto a técnica profissional.",
+            "url": null
+        },
+        {
+            "name": "Processo Seletivo",
+            "url": "https://www.ifsp.edu.br/processos-seletivos"
+        },
+        {
+            "name": "Eixo Tecnológico - Ambiente e Saúde",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-ambiente-e-saude"
+        },
+        {
+            "name": "VOLTAR AO TOPO ⇑",
+            "url": "https://www.ifsp.edu.br/component/content/article?layout=edit&id=123#topcur"
+        },
+        {
+            "name": "Saiba mais sobre o curso, clicando no campus de seu interesse:",
+            "url": null
+        },
+        {
+            "name": "Eixo Tecnológico - Controle e Processos Industriais",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-controle-e-processos-industriais"
+        },
+        {
+            "name": "Eixo Tecnológico - Gestão e Negócios",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-gestao-e-negocios"
+        },
+        {
+            "name": "Eixo Tecnológico - Informação e Comunicação",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-informacao-e-comunicacao"
+        },
+        {
+            "name": "Eixo Tecnológico - Infraestrutura",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-infraestrutura"
+        },
+        {
+            "name": "Eixo Tecnológico - Produção Alimentícia",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-producao-alimenticia"
+        }
+    ],
+    "TÉCNICO CONCOMITANTE OU SUBSEQUENTE": [
+        {
+            "name": "Para os cursos:",
+            "url": null
+        },
+        {
+            "name": "Processo Seletivo",
+            "url": "https://www.ifsp.edu.br/processos-seletivos?layout=edit&id=467"
+        },
+        {
+            "name": "Eixo Tecnológico - Ambiente e Saúde",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-ambiente-e-saude"
+        },
+        {
+            "name": "VOLTAR AO TOPO ⇑",
+            "url": "https://www.ifsp.edu.br/component/content/article?layout=edit&id=124#topcur"
+        },
+        {
+            "name": "Saiba mais sobre o curso, clicando no campus de seu interesse:",
+            "url": null
+        },
+        {
+            "name": "Eixo Tecnológico - Controle e Processos Industriais",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-controle-e-processos-industriais"
+        },
+        {
+            "name": "Eixo Tecnológico - Desenvolvimento Educacional e Social",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-desenvolvimento-educacional-e-social"
+        },
+        {
+            "name": "Eixo Tecnológico - Gestão e Negócios",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-gestao-e-negocios"
+        },
+        {
+            "name": "Eixo Tecnológico - Informação e Comunicação",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-informacao-e-comunicacao"
+        },
+        {
+            "name": "Eixo Tecnológico - Infraestrutura",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-infraestrutura"
+        },
+        {
+            "name": "Eixo Tecnológico - Produção Alimentícia",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-producao-alimenticia"
+        },
+        {
+            "name": "Eixo Tecnológico - Produção Cultural e Design",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-producao-cultural-e-design"
+        },
+        {
+            "name": "Eixo Tecnológico - Produção Industrial",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-producao-industrial"
+        },
+        {
+            "name": "Eixo Tecnológico - Recursos Naturais",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-recursos-naturais"
+        },
+        {
+            "name": "Eixo Tecnológico - Turismo, Hospitalidade e Lazer",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-turismo-hospitalidade-e-lazer"
+        },
+        {
+            "name": "Campus Araraquara - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Campus Avaré - Total de 80 vagas",
+            "url": null
+        },
+        {
+            "name": "Campus Bauru - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Campus Birigui - Total de 80 vagas",
+            "url": null
+        },
+        {
+            "name": "Campus Boituva - Total de 200 vagas",
+            "url": null
+        },
+        {
+            "name": "Campus Bragança Paulista - Total de 80 vagas",
+            "url": null
+        },
+        {
+            "name": "Campinas - Total de 80 vagas",
+            "url": null
+        },
+        {
+            "name": "Campos do Jordão - Total de 120 vagas",
+            "url": null
+        },
+        {
+            "name": "Capivari - Total de 130 vagas",
+            "url": null
+        },
+        {
+            "name": "Caraguatatuba - Total de 210 vagas",
+            "url": null
+        },
+        {
+            "name": "Catanduva - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Cubatão - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Guarulhos - Total de 120 vagas",
+            "url": null
+        },
+        {
+            "name": "Hortolândia - Total de 85 vagas",
+            "url": null
+        },
+        {
+            "name": "Ilha Solteira- Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Itapetininga - Total de 200 vagas",
+            "url": null
+        },
+        {
+            "name": "Itaquaquecetuba - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Jacareí - Total de 80 vagas",
+            "url": null
+        },
+        {
+            "name": "Jundiaí- Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Piracicaba - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Pirituba - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Presidente Epitácio - Total de 160 vagas",
+            "url": null
+        },
+        {
+            "name": "Presidente Prudente - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Registro - Total de 120 vagas",
+            "url": null
+        },
+        {
+            "name": "Salto - Total de 160 vagas",
+            "url": null
+        },
+        {
+            "name": "São Carlos - Total de 160 vagas",
+            "url": null
+        },
+        {
+            "name": "São João da Boa Vista - Total de 420 vagas",
+            "url": null
+        },
+        {
+            "name": "São José do Rio Preto - Total de 80 vagas",
+            "url": null
+        },
+        {
+            "name": "São José dos Campos - Total de 120 vagas",
+            "url": null
+        },
+        {
+            "name": "São Paulo - Total de 480 vagas",
+            "url": null
+        },
+        {
+            "name": "Sertãozinho - Total de 200 vagas",
+            "url": null
+        },
+        {
+            "name": "Sorocaba - Total de 80 vagas",
+            "url": null
+        },
+        {
+            "name": "Suzano - Total de 80 vagas",
+            "url": null
+        },
+        {
+            "name": "Tupã- Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Votuporanga - Total de 40 vagas",
+            "url": null
+        }
+    ],
+    "TECNÓLOGO": [],
+    "LICENCIATURA": [
+        {
+            "name": "O curso destina-se a preparar professores para atuarem na educação básica.",
+            "url": null
+        },
+        {
+            "name": "Área de Conhecimento - Ciências Exatas e da Terra",
+            "url": "https://www.ifsp.edu.br#area-de-conhecimento-ciencias-exatas-e-da-terra"
+        },
+        {
+            "name": "VOLTAR AO TOPO ⇑",
+            "url": "https://www.ifsp.edu.br/component/content/article?layout=edit&id=126#topcur"
+        },
+        {
+            "name": "Saiba mais sobre o curso, clicando no campus de seu interesse:",
+            "url": null
+        },
+        {
+            "name": "Área de Conhecimento - Humanidades",
+            "url": "https://www.ifsp.edu.br#area-de-conhecimento-humanidades"
+        }
+    ],
+    "BACHARELADO": [
+        {
+            "name": "Administração",
+            "url": "https://www.ifsp.edu.br#administracao"
+        },
+        {
+            "name": "Agronomia",
+            "url": "https://www.ifsp.edu.br#agronomia"
+        },
+        {
+            "name": "Arquitetura e Urbanismo",
+            "url": "https://www.ifsp.edu.br#arquitetura-e-urbanismo"
+        },
+        {
+            "name": "Onde cursar:",
+            "url": null
+        },
+        {
+            "name": "Jacareí",
+            "url": "https://portais.ifsp.edu.br/jcr/index.php?option=com_content&view=article&id=95&catid=2"
+        },
+        {
+            "name": "São Carlos",
+            "url": "https://scl.ifsp.edu.br/index.php/component/content/article/62-ensino/1831-bacharelado-em-administracao.html"
+        },
+        {
+            "name": "São Roque",
+            "url": "http://srq.ifsp.edu.br/index.php/superiores/bacharelado-em-administracao"
+        }
+    ],
+    "PÓS-GRADUAÇÃO": [
+        {
+            "name": "Pós-graduação Lato Sensu",
+            "url": "https://www.ifsp.edu.br#pos-graduacao-lato-sensu"
+        },
+        {
+            "name": "Pós-graduação Stricto Sensu",
+            "url": "https://www.ifsp.edu.br#pos-graduacao-stricto-sensu"
+        },
+        {
+            "name": "Campus Araraquara",
+            "url": null
+        },
+        {
+            "name": "Ensino Interdisciplinar de Ciências da Natureza e Matemática",
+            "url": "https://www.arq.ifsp.edu.br/pos-graduacao-lato-sensu/ensino-interdisciplinar-de-ciencias-da-natureza-e-matematica"
+        },
+        {
+            "name": "Campus Barretos",
+            "url": null
+        },
+        {
+            "name": "Desenvolvimento de Sistemas WEB para Internet e Dispositivos Móveis",
+            "url": "https://brt.ifsp.edu.br/cursos/cursos-de-pos-graduacao/especializacao-em-desenvolvimento-de-sistemas-para-internet-e-dispositivos-moveis"
+        },
+        {
+            "name": "Docência para a Educação Profissional e Tecnológica - DocentEPT",
+            "url": "https://www.ifsp.edu.br/component/content/article/8-assuntos/5059-menu-docentept"
+        },
+        {
+            "name": "Educação Escolar sob uma perspectiva Dialógica e Emancipatória",
+            "url": "https://brt.ifsp.edu.br/cursos?id=1136"
+        },
+        {
+            "name": "Campus Birigui",
+            "url": null
+        },
+        {
+            "name": "Ensino de Ciências da Natureza e Matemática",
+            "url": "https://bri.ifsp.edu.br/index.php/pos-graduacao/pos-graduacao-lato-sensu-em-ensino-de-ciencias-da-natureza-e-matematica"
+        },
+        {
+            "name": "Campus Boituva",
+            "url": null
+        },
+        {
+            "name": "Gestão de Tecnologia da Informação",
+            "url": "https://btv.ifsp.edu.br/index.php/especializacao-em-gestao-da-tecnologia-da-informacao"
+        },
+        {
+            "name": "Campus Bragança Paulista",
+            "url": null
+        },
+        {
+            "name": "Gestão Estratégica de Tecnologia da Informação",
+            "url": "https://bra.ifsp.edu.br/cursos-artigos/334"
+        },
+        {
+            "name": "Ensino da Matemática dos Anos Iniciais do Ensino Fundamental",
+            "url": "https://bra.ifsp.edu.br/cursos-artigos/4131-pos-graduacao-gratuita-matematica"
+        },
+        {
+            "name": "Campus Campinas",
+            "url": null
+        },
+        {
+            "name": "Ciência de Dados - EAD",
+            "url": "https://portal.cmp.ifsp.edu.br/index.php/pos-graduacao"
+        },
+        {
+            "name": "Ciência de Dados - Presencial",
+            "url": "https://cienciadedados-ifsp.github.io/"
+        },
+        {
+            "name": "Docência na Educação Básica",
+            "url": "https://portal.cmp.ifsp.edu.br/index.php/pos-graduacao/especializacao-em-docencia-na-educacao-basica"
+        },
+        {
+            "name": "Formação Docente: Educação para Inserção Social",
+            "url": "https://portal.cmp.ifsp.edu.br/index.php/pos-graduacao/especializacao-em-educacao-para-insercao-social"
+        },
+        {
+            "name": "Microeletrônica e Sistemas Embarcados",
+            "url": "https://portal.cmp.ifsp.edu.br/index.php/component/content/article/57-cursos/2300-especializacao-em-microeletronica-e-sistemas-embarcados"
+        },
+        {
+            "name": "Campus Capivari",
+            "url": null
+        },
+        {
+            "name": "Atendimento Educacional Especializado",
+            "url": "https://cpv.ifsp.edu.br/aee"
+        },
+        {
+            "name": "Desenvolvimento de Sistemas WEB e Aplicativos Móveis",
+            "url": "https://cpv.ifsp.edu.br/pdev"
+        },
+        {
+            "name": "Ensino de Línguas",
+            "url": "https://cpv.ifsp.edu.br/index.php/pos-graduacao/61-pesquisa-cpi/2199-pos-graduacao-lato-sensu-em-ensino-de-linguas"
+        },
+        {
+            "name": "Educação em Ciências e Matemática",
+            "url": "https://cpv.ifsp.edu.br/pcm"
+        },
+        {
+            "name": "Educações e Tecnologias  Digitais",
+            "url": "https://cpv.ifsp.edu.br/eduted"
+        },
+        {
+            "name": "Campus Caraguatatuba",
+            "url": null
+        },
+        {
+            "name": "Gestão Financeira",
+            "url": "https://www.ifspcaraguatatuba.edu.br/cursos/pos-graduacao/especializacao-em-gestao-financeira"
+        },
+        {
+            "name": "Gestão Financeira e de Negócios",
+            "url": "https://www.ifspcaraguatatuba.edu.br/cursos/pos-graduacao/pos-graduacao-lato-sensu-gestao-financeira-e-de-negocios"
+        },
+        {
+            "name": "Campus Catanduva",
+            "url": null
+        },
+        {
+            "name": "Ensino de Ciências da Natureza e Matemática",
+            "url": "https://ctd.ifsp.edu.br/index.php/component/content/article/68-pos-graduacao-lato-sensu-em-ensino-de-ciencias-da-natureza-e-matematica/136-pos-graduacao-lato-sensu-em-ensino-de-ciencias-da-natureza-e-matematica"
+        },
+        {
+            "name": "Campus Cubatão",
+            "url": null
+        },
+        {
+            "name": "Engenharia Elétrica",
+            "url": "https://cbt.ifsp.edu.br/index.php/pos-graduacao/61-cursos/3604-pos-graduacao-em-engenharia-eletrica"
+        },
+        {
+            "name": "Campus Guarulhos",
+            "url": null
+        },
+        {
+            "name": "Computação Aplicada",
+            "url": "https://gru.ifsp.edu.br/pos-graduacao.html"
+        },
+        {
+            "name": "Gestão de Sistemas de Informação",
+            "url": "http://gru.ifsp.edu.br/index.php/pos-graduacao/gestao-de-sistemas-de-informacao.html"
+        },
+        {
+            "name": "Campus Hortolândia",
+            "url": null
+        },
+        {
+            "name": "Ensino de Línguas e Literatura",
+            "url": "https://hto.ifsp.edu.br/institucional/index.php/administracao?layout=edit&id=1260"
+        },
+        {
+            "name": "Campus Ilha Solteira",
+            "url": null
+        },
+        {
+            "name": "Educação Inclusiva",
+            "url": "https://ist.ifsp.edu.br/index.php/component/content/article?id=476"
+        },
+        {
+            "name": "Campus Itapetininga",
+            "url": null
+        },
+        {
+            "name": "Desenvolvimento Web",
+            "url": "https://itp.ifsp.edu.br/index.php/pos-graduacao/2-uncategorised/108-espweb"
+        },
+        {
+            "name": "Ensino de Ciências e Educação Matemática",
+            "url": "https://itp.ifsp.edu.br/index.php/pos-graduacao/especializacao-em-ensino-de-ciencias-e-matematica"
+        },
+        {
+            "name": "Informática Aplicada à Educação",
+            "url": "https://itp.ifsp.edu.br/index.php/pos-graduacao/2-uncategorised/104-especializacao-em-informatica-aplicada-a-educacao"
+        },
+        {
+            "name": "Campus Matão",
+            "url": null
+        },
+        {
+            "name": "Produção Sucroenergética",
+            "url": "http://mto.ifsp.edu.br/cursos/66-cursos/pos-graduacao/131-especializacao-em-producao-sucroenergetica"
+        },
+        {
+            "name": "Educação Inclusiva na Cultura Digital",
+            "url": "https://ifspmto.github.io/pos_eicd/"
+        },
+        {
+            "name": "Campus Piracicaba",
+            "url": null
+        },
+        {
+            "name": "Educação em Direitos Humanos",
+            "url": "https://prc.ifsp.edu.br/index.php/pos-graduacao/1169-edital-processo-seletivo-para-o-curso-de-pos-graduacao-lato-sensu-especializacao-em-educacao-em-direitos-humanos-3"
+        },
+        {
+            "name": "Campus Pirituba",
+            "url": null
+        },
+        {
+            "name": "Gestão de Projetos",
+            "url": "https://ptb.ifsp.edu.br/index.php/pos-graduacao/especializacao-em-gestao-de-projetos"
+        },
+        {
+            "name": "Gestão de Segurança e Saúde do Trabalho e Democracia",
+            "url": "https://ptb.ifsp.edu.br/index.php/pos-graduacao/gestao-de-seguranca-e-saude-do-trabalho-e-democracia"
+        },
+        {
+            "name": "Humanidades - Educação, Política e Sociedade",
+            "url": "https://ptb.ifsp.edu.br/index.php/pos-graduacao/especializacao-em-humanidades-educacao-politica-e-sociedade"
+        },
+        {
+            "name": "Campus Salto",
+            "url": null
+        },
+        {
+            "name": "Cultura, Educação e Tecnologias",
+            "url": "https://slt.ifsp.edu.br/index.php/component/content/article?id=1596"
+        },
+        {
+            "name": "Educação Matemática: Crítica e Sociedade",
+            "url": "https://slt.ifsp.edu.br/index.php/component/content/article/58-destaques/1998-pos-graduacao-lato-sensu-em-educacao-matematica-critica-e-sociedade#identificacao-do-curso"
+        },
+        {
+            "name": "Temas Transversais",
+            "url": "https://slt.ifsp.edu.br/index.php/component/content/article?id=286"
+        },
+        {
+            "name": "Campus São Carlos",
+            "url": null
+        },
+        {
+            "name": "Campus São João da Boa Vista",
+            "url": null
+        },
+        {
+            "name": "Desenvolvimento de Aplicações para Dispositivos Móveis",
+            "url": "https://www.sbv.ifsp.edu.br/cursos/64-ensino/cursos/250-curso-dispositivos-moveis"
+        },
+        {
+            "name": "Informática na Educação",
+            "url": "https://www.sbv.ifsp.edu.br/cursos/64-ensino/cursos/251-curso-informatica-educacao"
+        },
+        {
+            "name": "Humanidades - Ciência, Cultura e Sociedade",
+            "url": "https://www.sbv.ifsp.edu.br/cursos/64-ensino/cursos/256-pos-graduacao-lato-sensu-em-humanidades-ciencia-cultura-e-sociedade"
+        },
+        {
+            "name": "Gestão na Educação Profissional e Tecnológica",
+            "url": "https://www.sbv.ifsp.edu.br/component/content/article?id=2180"
+        },
+        {
+            "name": "Educação a Distância na Educação Profissional e Tecnológica",
+            "url": "https://www.sbv.ifsp.edu.br/todas-noticias-publicadas/17-ultimas-noticias/2249-especializa%C3%A7%C3%A3o-em-educa%C3%A7%C3%A3o-a-dist%C3%A2ncia-na-educa%C3%A7%C3%A3o-profissional-e-tecnol%C3%B3gica"
+        },
+        {
+            "name": "Campus São José dos Campos",
+            "url": null
+        },
+        {
+            "name": "Docência na Educação Básica",
+            "url": "https://sjc.ifsp.edu.br/index.php/pos-graduacao/edubas"
+        },
+        {
+            "name": "Trabalho Associado e Educação para Além do Capital da América Latina",
+            "url": "https://sjc.ifsp.edu.br/index.php/pos-graduacao/taeacal"
+        },
+        {
+            "name": "Campus São Paulo",
+            "url": null
+        },
+        {
+            "name": "Aeroportos - Projetos e Construção",
+            "url": "https://spo.ifsp.edu.br/component/content/article?id=264"
+        },
+        {
+            "name": "Controle e Automação",
+            "url": "https://spo.ifsp.edu.br/component/content/article?id=2091"
+        },
+        {
+            "name": "Docência na Educação Superior",
+            "url": "https://spo.ifsp.edu.br/component/content/article?id=258"
+        },
+        {
+            "name": "Educação Profissional Integrada à Educação Básica na Modalidade de Educação de Jovens e Adultos",
+            "url": "https://spo.ifsp.edu.br/component/content/article?id=262"
+        },
+        {
+            "name": "• Ensino de Ciências - Ciência é 10!",
+            "url": "https://spo.ifsp.edu.br/component/content/article?id=4255"
+        },
+        {
+            "name": "Ensino de Filosofia",
+            "url": "https://spo.ifsp.edu.br/menu/68-menu-principal-pos-graduacao/3181-especializa%C3%A7%C3%A3o-em-ensino-de-filosofia"
+        },
+        {
+            "name": "Ensino de Geografia",
+            "url": "https://spo.ifsp.edu.br/menu/68-menu-principal-pos-graduacao/3865-especializa%C3%A7%C3%A3o-em-ensino-de-geografia"
+        },
+        {
+            "name": "Gestão da Tecnologia da Informação",
+            "url": "https://spo.ifsp.edu.br/component/content/article?id=266"
+        },
+        {
+            "name": "Gestão em Serviços Turísticos",
+            "url": "https://spo.ifsp.edu.br/menu/68-menu-principal-pos-graduacao/4066-especializa%C3%A7%C3%A3o-em-gest%C3%A3o-de-servi%C3%A7os-tur%C3%ADsticos"
+        },
+        {
+            "name": "Campus São Roque",
+            "url": null
+        },
+        {
+            "name": "Metodologia do Ensino das Ciências da Natureza",
+            "url": "http://srq.ifsp.edu.br/index.php/pos-graduacao"
+        },
+        {
+            "name": "Campus Sorocaba",
+            "url": null
+        },
+        {
+            "name": "Indústria 4.0",
+            "url": "https://sor.ifsp.edu.br/index.php/pos-graduacao"
+        },
+        {
+            "name": "Desenvolvimento de Pessoas",
+            "url": "https://sor.ifsp.edu.br/index.php/pos-graduacao-em-desenvolvimento-de-pessoas"
+        },
+        {
+            "name": "• Educação Infantil e Linguagens da Criança",
+            "url": null
+        },
+        {
+            "name": "Campus Suzano",
+            "url": null
+        },
+        {
+            "name": "Logística e Operações",
+            "url": "http://szn.ifsp.edu.br/portal2/index.php?option=com_content&view=article&id=85&Itemid=289"
+        },
+        {
+            "name": "Formação de Professores em Educação Socioambiental",
+            "url": "https://szn.ifsp.edu.br/noticias/3348-pos-graduacao-em-educacao-socioambiental"
+        },
+        {
+            "name": "Campus Votuporanga",
+            "url": null
+        },
+        {
+            "name": "CURSOS NA MODALIDADE DE EDUCAÇÃO A DISTÂNCIA (EAD)",
+            "url": null
+        },
+        {
+            "name": "Educação em Ciências e Matemática",
+            "url": "https://cpv.ifsp.edu.br/index.php/pos-graduacao/61-pesquisa-cpi/2200-pos-graduacao-lato-sensu-em-educacao-em-ciencias-e-matematica-especializacao"
+        },
+        {
+            "name": "Ensino de Línguas e Literatura",
+            "url": "https://hto.ifsp.edu.br/portal/index.php/108-institucional/coord-linguas/1238-especializacao-linguas-literatura?highlight=WyJsXHUwMGVkbmd1YXMiLCJsaXRlcmF0dXJhcyJd"
+        },
+        {
+            "name": "Mestrado Acadêmico em Engenharia Mecânica",
+            "url": "https://spo.ifsp.edu.br/index.php?option=com_content&view=article&id=317"
+        },
+        {
+            "name": "Mestrado Profissional em Ensino de Ciências e Matemática",
+            "url": "https://spo.ifsp.edu.br/index.php?option=com_content&view=article&id=270"
+        },
+        {
+            "name": "Mestrado Profissional em Matemática em Rede Nacional (PROFMAT",
+            "url": "https://spo.ifsp.edu.br/index.php?option=com_content&view=article&id=316"
+        },
+        {
+            "name": "Campus Sertãozinho",
+            "url": null
+        },
+        {
+            "name": "Mestrado Profissional em Educação Profissional e Tecnológica (PROFEPT",
+            "url": "https://profept.srt.ifsp.edu.br/"
+        },
+        {
+            "name": "CLIQUE AQUI",
+            "url": "https://www.ifsp.edu.br/component/content/article/83-assuntos/pesquisa/3054-editais-abertos"
+        },
+        {
+            "name": "Anterior",
+            "url": "https://www.ifsp.edu.br/index.php/component/content/article/8-assuntos/215-comissao-de-etica"
+        },
+        {
+            "name": "Próximo",
+            "url": "https://www.ifsp.edu.br/index.php/component/content/article/8-assuntos/87-pro-reitorias"
+        }
+    ],
+    "EDUCAÇÃO A DISTÂNCIA (EAD)": [
+        {
+            "name": "Processos Seletivo",
+            "url": "https://processoseletivo.ifsp.edu.br/"
+        },
+        {
+            "name": "A consulta fica disponível até 10 de outubro; acesse o  formulário eletrônico para participar",
+            "url": null
+        },
+        {
+            "name": "Confira a lista de candidatos convocados em 1ª chamada e as orientações para a matrícula",
+            "url": null
+        }
+    ],
+    "PROEJA": [
+        {
+            "name": "Processo Seletivo",
+            "url": "https://www.ifsp.edu.br/processos-seletivos"
+        },
+        {
+            "name": "Eixo Tecnológico - Controle e Processos Industriais",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-controle-e-processos-industriais"
+        },
+        {
+            "name": "VOLTAR AO TOPO ⇑",
+            "url": "https://www.ifsp.edu.br/component/content/article?layout=edit&id=129#topcur"
+        },
+        {
+            "name": "EJA Técnico Integrado",
+            "url": null
+        },
+        {
+            "name": "Saiba mais sobre o curso, clicando no campus de seu interesse:",
+            "url": null
+        },
+        {
+            "name": "Eixo Tecnológico - Gestão e Negócios",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-gestao-e-negocios"
+        },
+        {
+            "name": "Eixo Tecnológico - Informação e Comunicação",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-informacao-e-comunicacao"
+        },
+        {
+            "name": "EJA FIC Fundamental Anos Finais",
+            "url": null
+        },
+        {
+            "name": "EixoTecnológico- Segurança",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-seguranca"
+        },
+        {
+            "name": "Eixo Tecnológico - Turismo, Hospitalidade e Lazer",
+            "url": "https://www.ifsp.edu.br#eixo-tecnologico-turismo-hospitalidade-e-lazer"
+        },
+        {
+            "name": "Cursos por campus:",
+            "url": null
+        },
+        {
+            "name": "Avaré - Total de 30 vagas",
+            "url": null
+        },
+        {
+            "name": "Barretos - Total de 200 vagas",
+            "url": null
+        },
+        {
+            "name": "Birigui - Total de 80 vagas",
+            "url": null
+        },
+        {
+            "name": "Campinas - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Capivari - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Caraguatatuba - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Cubatão - Total de 120 vagas",
+            "url": null
+        },
+        {
+            "name": "Jacareí - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Jundiaí- Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Matão - Total de 45 vagas",
+            "url": null
+        },
+        {
+            "name": "Pirituba - Total de 120 vagas",
+            "url": null
+        },
+        {
+            "name": "Presidente Epitácio - Total de 80 vagas",
+            "url": null
+        },
+        {
+            "name": "São Paulo - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Sertãozinho - Total de 40 vagas",
+            "url": null
+        },
+        {
+            "name": "Suzano - Total de 40 vagas",
+            "url": null
+        }
+    ],
+    "CURSOS LIVRES (sem certificado)": [
+        {
+            "name": "A Plataforma de MOOCs (Cursos livres online) do IFSP está em construção.",
+            "url": null
+        },
+        {
+            "name": "Anterior",
+            "url": "https://www.ifsp.edu.br/index.php/component/content/article/42-assuntos/ensino/1470-formacao-continuada"
+        },
+        {
+            "name": "Próximo",
+            "url": "https://www.ifsp.edu.br/index.php/component/content/article/42-assuntos/ensino/1469-ded-cead"
+        }
+    ]
+}
