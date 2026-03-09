@@ -1,0 +1,24 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
+
+# Dados (Remova o comentário abaixo se NÃO quiser subir os JSONs capturados)
+# json/*.json
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
