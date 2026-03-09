@@ -75,6 +75,9 @@ Para atualizar a lista de cursos, basta clicar no botão **"Atualizar Scrapers"*
 3. Recarregar automaticamente a listagem na tela.
 
 
+## Exemplo da implementação e testes
+![example_gif](assets/demonstration.gif)
+
 
 ### Dica para o compartilhamento:
 

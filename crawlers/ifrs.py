@@ -65,7 +65,7 @@ class IFRSCourseScraper:
 
         return details
 
-    def save_to_json(self, data, filename="courses_ifrs.json"):
+    def save_to_json(self, data, filename="json/courses_ifrs.json"):
         with open(filename, "w", encoding="utf-8") as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
         print(f"Sucesso: {len(data)} cursos capturados e salvos em {filename}")

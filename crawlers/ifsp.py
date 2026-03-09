@@ -89,7 +89,7 @@ class IFSPCourseScraper:
 
         return course_list
 
-    def save_results(self, data, filename="courses_ifsp.json"):
+    def save_results(self, data, filename="json/courses_ifsp.json"):
         with open(filename, "w", encoding="utf-8") as file:
             json.dump(data, file, ensure_ascii=False, indent=4)
         print(f"Processo finalizado. {sum(len(v) for v in data.values())} itens salvos em {filename}")
